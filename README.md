@@ -18,7 +18,7 @@
 ## Table of Contents
 
 - [Goals 🎯](#goals-)
-- [Technology Stack 🛠️](#technology-stack-)
+- [Technology Stack 🛠️](#technology-stack-%EF%B8%8F)
 - [Prerequisites 🍪](#prerequisites-)
 - [Setup 🔧](#setup-)
 
